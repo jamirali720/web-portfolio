@@ -2,10 +2,12 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
-    box-sizing: border-box;
 }
 h1 {
     font-size: 40px;
+}
+p {
+    font-weight:400;
 }
 .orange-highlight {
     color:orange;
@@ -19,9 +21,9 @@ h1 {
 .half-width {
     width: 40%;
     float: left;
-    margin-left: 5%;
+    margin-left:5%;
     padding: 2%;
-    height: 500px;
+    height: 300px;
    
 
 }
@@ -51,7 +53,7 @@ section {
 .single-experience {
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 80%;
+    height: 50%;
     background-color: white;
 
 }
